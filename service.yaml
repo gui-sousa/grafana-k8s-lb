@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: svc-grafana-project
+  namespace: grafana-space
+spec:
+  type: NodePort
+  externalTrafficPolicy: Local
+  selector:
+    app: grafana-project
+  ports:
+  - name: grafana-port
+    port: 3000
+    targetPort: 3000
+    nodePort: 32009
