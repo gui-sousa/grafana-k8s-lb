@@ -31,7 +31,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -113,15 +112,6 @@ In this scenario, if Grafana on *NODE-1* experiences 2 connection failures withi
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `license.md` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- CONTACT -->
 ## Contact
 
@@ -133,9 +123,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 
 <!-- ACKNOWLEDGMENTS -->
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
