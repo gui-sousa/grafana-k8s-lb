@@ -60,10 +60,10 @@ Using nginx as a load balancer, distributing load among the pods through the Nod
 <!-- GETTING STARTED -->
 ### Prerequisites
 
-* Having a local (or cloud provider) Kubernetes infrastructure.
-* Set your IP's
-* Make sure you have kubernetes and load balancer ports relesead in your network
-* Make sure you have docker installed 
+* Having a local (or cloud provider) Kubernetes infrastructure with at least two worker nodes;
+* Set your IP's;
+* Make sure you have kubernetes and load balancer ports relesead in your network;
+* Make sure you have docker installed.
 
 ### Installation
 
