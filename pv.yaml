@@ -14,5 +14,5 @@ spec:
     - hard
     - nfsvers=4.1
   nfs:
-    server: 10.1.80.96
+    server: 189.19.99.96
     path: "/mnt/apps/grafana-vol"
